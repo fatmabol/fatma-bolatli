@@ -24,7 +24,7 @@ int f = 0;
         {
         c++;
 
-            Console.WriteLine("cift sayı =" + sayilar[i].ToString());
+        Console.WriteLine("cift sayı =" + sayilar[i].ToString());
         Console.WriteLine("CİFT SAYI ADEDI:"+ c.ToString());
         }
         else
